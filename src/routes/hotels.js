@@ -8,7 +8,7 @@ import {
   getHotelRooms,
   getHotels,
   updateHotel,
-} from "../controllers/hotel.js";
+} from "../controllers/hotelController.js";
 import Hotel from "../models/HotelModel.js";
 import { verifyAdmin } from "../utils/verifyToken.js";
 
