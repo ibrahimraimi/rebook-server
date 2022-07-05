@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-> Day-to-day task manager for software teams
+> Rebook is a Day-to-day booking reservation website
 
 <!-- ### ✨ [Demo](https://managee.netlify.app) -->
 
