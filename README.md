@@ -24,11 +24,30 @@
 
 <!-- ### ✨ [Demo](https://managee.netlify.app) -->
 
-## Installation
+### Prerequisites
 
-```sh
-npm install
-```
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/ibrahimraimi/rebook-server
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your MONGODB Connection String, your JWT Key and port number  in `.env`
+   ```js
+   MONGODB_CONNECTION_STRING=
+   JWT_KEY
+   PORT=8080
+   ```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
